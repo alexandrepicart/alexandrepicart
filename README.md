@@ -1,6 +1,7 @@
 # Alexandre Picart
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=2563EB&width=700&lines=TSE+master's+student+in+Data+Science;Interested+in+statistics%2C+econometrics+and+machine+learning;Building+academic+and+applied+data+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1200&color=2563EB&width=700&lines=Statistics+%7C+Econometrics+%7C+Machine+Learning;Academic+and+Applied+Data+Projects)](https://git.io/typing-svg)
+
 
 ## About me
 - Master's student at Toulouse School of Economics
