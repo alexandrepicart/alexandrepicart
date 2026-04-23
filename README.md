@@ -15,4 +15,9 @@
 - [LinkedIn](https://www.linkedin.com/in/alexandre-picart)
 
 ## Contribution
-![snake gif](https://github.com/alexandrepicart/alexandrepicart/blob/output/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrepicart/alexandrepicart/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexandrepicart/alexandrepicart/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/alexandrepicart/alexandrepicart/output/github-snake.svg" />
+</picture>
