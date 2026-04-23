@@ -1,6 +1,7 @@
 # Alexandre Picart
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1200&color=2563EB&width=900&lines=I'm+a+Data+Science+master's+student+at+TSE;I+work+on+statistics%2C+econometrics%2C+machine+learning+and+deep+learning;I+build+projects+around+data%2C+prediction%2C+modeling+and+quantitative+analysis)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1200&color=2563EB&width=980&lines=I'm+a+Data+Science+master's+student+at+TSE;I+work+on+statistics%2C+econometrics%2C+machine+learning%2C+deep+learning+and+NLP;I+build+projects+at+the+intersection+of+data%2C+models+and+real-world+applications)](https://git.io/typing-svg)
 
 
   
