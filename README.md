@@ -16,7 +16,7 @@ TSE master's student in Data Science.
 
 - [LinkedIn](https://www.linkedin.com/in/alexandre-picart)
 
-## Contribution snake
+## Contribution 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexandrepicart/alexandrepicart/output/github-snake-dark.svg" />
