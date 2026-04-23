@@ -1,0 +1,38 @@
+<svg width="1200" height="110" viewBox="0 0 1200 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="110" rx="18" fill="white"/>
+
+  <path d="M80 70 C180 30, 260 90, 360 50 C460 10, 540 85, 640 45 C740 5, 820 80, 920 40 C1020 5, 1080 60, 1120 35"
+        stroke="#9DB7E8" stroke-width="3" fill="none" stroke-linecap="round">
+    <animate attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      values="
+      M80 70 C180 30, 260 90, 360 50 C460 10, 540 85, 640 45 C740 5, 820 80, 920 40 C1020 5, 1080 60, 1120 35;
+      M80 55 C180 85, 260 20, 360 60 C460 95, 540 20, 640 65 C740 95, 820 25, 920 55 C1020 90, 1080 30, 1120 50;
+      M80 70 C180 30, 260 90, 360 50 C460 10, 540 85, 640 45 C740 5, 820 80, 920 40 C1020 5, 1080 60, 1120 35
+      "/>
+  </path>
+
+  <circle cx="180" cy="52" r="6" fill="#163B73">
+    <animate attributeName="cy" dur="6s" repeatCount="indefinite" values="52;72;52"/>
+  </circle>
+  <circle cx="360" cy="50" r="6" fill="#2D6CDF">
+    <animate attributeName="cy" dur="6s" repeatCount="indefinite" values="50;60;50"/>
+  </circle>
+  <circle cx="640" cy="45" r="6" fill="#163B73">
+    <animate attributeName="cy" dur="6s" repeatCount="indefinite" values="45;65;45"/>
+  </circle>
+  <circle cx="920" cy="40" r="6" fill="#2D6CDF">
+    <animate attributeName="cy" dur="6s" repeatCount="indefinite" values="40;55;40"/>
+  </circle>
+
+  <circle cx="1040" cy="28" r="3" fill="#BFD0EE">
+    <animate attributeName="opacity" dur="2.4s" repeatCount="indefinite" values="0.2;1;0.2"/>
+  </circle>
+  <circle cx="1080" cy="46" r="3" fill="#BFD0EE">
+    <animate attributeName="opacity" dur="2.1s" repeatCount="indefinite" values="0.2;1;0.2"/>
+  </circle>
+  <circle cx="1110" cy="30" r="3" fill="#BFD0EE">
+    <animate attributeName="opacity" dur="2.7s" repeatCount="indefinite" values="0.2;1;0.2"/>
+  </circle>
+</svg>
