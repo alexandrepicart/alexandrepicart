@@ -1,12 +1,11 @@
 # Alexandre Picart
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1200&color=2563EB&width=700&lines=Statistics+%7C+Econometrics+%7C+Machine+Learning;Academic+and+Applied+Data+Projects)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1200&color=2563EB&width=760&lines=Turning+data+into+structured+insights;From+econometrics+to+machine+learning;Academic+projects+and+applied+data+work)](https://git.io/typing-svg)
 
 ## About me
-- Master's student at Toulouse School of Economics
-- Interested in statistics, econometrics, machine learning, and NLP
-- Building academic and applied data science projects
+I am a master's student in Data Science at Toulouse School of Economics, with a strong interest in statistics, econometrics, machine learning, and NLP.
+
+My work combines academic projects and applied data science, with a focus on quantitative methods, model interpretation, and real-world problem solving.
 
 ## Featured repositories
 - [TSE_Academic_Projects](https://github.com/alexandrepicart/TSE_Academic_Projects)
