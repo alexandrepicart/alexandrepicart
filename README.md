@@ -2,6 +2,8 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/alexandrepicart/alexandrepicart/main/assets/network-wave.svg" width="100%" alt="subtle animated banner" />
 </p>
+
+
 TSE master's student in Data Science.
 ## About me
 
