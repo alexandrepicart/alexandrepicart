@@ -4,14 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3200&pause=1200&color=2563EB&width=980&lines=I'm+a+Data+Science+master's+student+at+TSE;I+work+on+statistics%2C+econometrics%2C+machine+learning%2C+deep+learning+and+NLP;I+build+projects+at+the+intersection+of+data%2C+models+and+real-world+applications)](https://git.io/typing-svg)
 
 
-  
-## Featured repositories
-- [TSE_Academic_Projects](https://github.com/alexandrepicart/TSE_Academic_Projects)
-- [XIA_assistant](https://github.com/alexandrepicart/XIA_assistant)
-
-## Links
-- [LinkedIn](https://www.linkedin.com/in/alexandre-picart)
-
 ## Contribution
 
 <picture>
